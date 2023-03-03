@@ -48,10 +48,17 @@ Users should not be able to place an order for a deal that is expired
 npm start to start the project on the port 5000 
 
 move to the src folder it contains 
+
 -models
+
 -constrollers
+
 -routes 
+
 models folder contains
+
 Topkartmodels which contains the schema for Deals and order 
+
 Topkartroutes is where the routes are defined 
+
 Topkartcontrollers is where all functions to perform the functionalites are there
