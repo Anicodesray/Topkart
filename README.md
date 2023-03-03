@@ -62,3 +62,21 @@ Topkartmodels which contains the schema for Deals and order
 Topkartroutes is where the routes are defined 
 
 Topkartcontrollers is where all functions to perform the functionalites are there
+
+Now I will write the function which does the functionalites as defined in the problem statement----
+
+Admin actions 
+
+    Create and update lightning deals  - addNewDeal updateDeal
+
+    Approve orders    -       getOrderstatus 
+Customer actions
+
+    Access available unexpired deals - getDeals
+
+    Place orders -  addNewOrder
+
+    Check the status of their order -getorderStatus
+To delete at midnight- runAtMidNight
+
+    
